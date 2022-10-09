@@ -1,0 +1,66 @@
+{
+  "billy": {
+    "personal_details": {
+      "name": "Billy",
+      "age": "23",
+      "address": "No. 1, Main Street, New York"
+    },
+    "sickness_details": {
+      "sickness": "Fever",
+      "symptoms": "High Fever",
+      "diagnosis": "Typhoid",
+      "treatment": "Medicine",
+      "date": "2019-01-01"
+    },
+    "drug_prescriptions": ["Medicine 1", "Medicine 2"],
+    "lab_test_prescriptions": ["blood_test", "urine_test"]
+  },
+  "kumar": {
+    "personal_details": {
+      "name": "Kumar",
+      "age": "21",
+      "address": "No. 1, Main Street, New York"
+    },
+    "sickness_details": {
+      "sickness": "Fever",
+      "symptoms": "High Fever",
+      "diagnosis": "Typhoid",
+      "treatment": "Medicine",
+      "date": "2019-01-01"
+    },
+    "drug_prescriptions": ["Medicine 1", "Medicine 2"],
+    "lab_test_prescriptions": ["blood_test", "urine_test"]
+  },
+  "ajith": {
+    "personal_details": {
+      "name": "Ajith",
+      "age": "23",
+      "address": "No. 1, Main Street, New York"
+    },
+    "sickness_details": {
+      "sickness": "Fever",
+      "symptoms": "High Fever",
+      "diagnosis": "Typhoid",
+      "treatment": "Medicine",
+      "date": "2019-01-01"
+    },
+    "drug_prescriptions": ["Medicine 1", "Medicine 2"],
+    "lab_test_prescriptions": ["blood_test", "urine_test"]
+  },
+  "jathav": {
+    "personal_details": {
+      "name": "jathavan",
+      "age": "21",
+      "address": "No.01, 1st lane, Vavuniya"
+    },
+    "sickness_details": {
+      "sickness": "head ache",
+      "symptoms": "eye pain",
+      "diagnosis": "migraine",
+      "treatment": "medicine",
+      "date": "01-10-2022"
+    },
+    "drug_prescriptions": ["acetaminophen", "fluneracin"],
+    "lab_test_prescriptions": ["mri test"]
+  }
+}
